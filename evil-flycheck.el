@@ -1,4 +1,4 @@
-;;; evil-flycheck.el --- Evil integration for flycheck to check on normal state
+;;; evil-flycheck.el --- flycheck buffer when entering normal state
 
 ;; Copyright (c) 2015 Alex Murray <alexmurray@fastmail.fm>
 ;;
